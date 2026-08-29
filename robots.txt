@@ -1,0 +1,13 @@
+Sitemap: https://wordpress-1413591-5262009.cloudwaysapps.com/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://wordpress-1413591-5262009.cloudwaysapps.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
